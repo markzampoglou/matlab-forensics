@@ -1,9 +1,0 @@
-function[] = modelWriter(model, outputFile)
-
-fid = fopen(outputFile, 'w+');
-
-fprintf('Nelev =\n');
-fprintf('\t%.0f\n\n', model.Nelev);
-
-fprintf
-end
