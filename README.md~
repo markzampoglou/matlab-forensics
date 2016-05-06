@@ -1,7 +1,5 @@
 ## matlab-forensics TESTBED
 
-# A collection of image forensics algorithms in MATLAB
-
 This used to be the source code for the experimental framework leading to the MATLAB toolbox published here:
 [https://github.com/MKLab-ITI/image-forensics](https://github.com/MKLab-ITI/image-forensics).
 
