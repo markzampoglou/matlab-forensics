@@ -1,4 +1,0 @@
-saveDirPath
-C:\temp\
-sample_image.jpg
-stopHere
